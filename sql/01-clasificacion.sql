@@ -3,6 +3,7 @@
 -- Script: 01-clasificacion.sql
 -- Descripción: Preparación de tabla, inserción de datos de prueba
 --              y verificación estructural.
+--           Irwin Gabriel Martinez Prado
 -- ============================================================
 
 -- 6.1 Crear la tabla clientes
